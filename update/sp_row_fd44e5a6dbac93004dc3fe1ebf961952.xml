@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name>row</class_name>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Oficios home - Container 1">7144e1a6dbac93004dc3fe1ebf96193b</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-02 20:39:19</sys_created_on>
+        <sys_id>fd44e5a6dbac93004dc3fe1ebf961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Oficia" source="x_196785_oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_scope>
+        <sys_update_name>sp_row_fd44e5a6dbac93004dc3fe1ebf961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-02 20:39:19</sys_updated_on>
+    </sp_row>
+</record_update>

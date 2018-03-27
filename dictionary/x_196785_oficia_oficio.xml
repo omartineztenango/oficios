@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_196785_sepuede_vacante" label="Oficio" max_length="40" name="x_196785_oficia_oficio" type="collection"/>
+</database>
