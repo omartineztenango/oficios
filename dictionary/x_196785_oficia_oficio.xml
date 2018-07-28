@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="x_196785_sepuede_vacante" label="Oficio" max_length="40" name="x_196785_oficia_oficio" type="collection"/>
+    <element extends="x_196785_sepuede_vacante" label="Oficio" max_length="40" name="x_196785_oficia_oficio" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Actividades a realizar" max_length="255" name="actividades" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Conocimientos o habilidades" max_length="255" name="conocimientos" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Días a laborar" max_length="40" name="dias_laborar" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Horario de trabajo" max_length="40" name="horario_trabajo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Idioma" max_length="40" name="idioma" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incentivos adicionales" max_length="40" name="incentivos" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Máquinas o herramientas que debe operar:" max_length="255" name="maq_tools" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Periodo de pago" max_length="40" name="periodo_pago" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="1" label="Sexo" max_length="40" name="sexo" type="string">
+            <choice>
+                <element label="Hombre" sequence="0" value="1"/>
+                <element label="Mujer" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Software requerido" max_length="40" name="soft_req" type="string"/>
+    </element>
 </database>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Oficios Reportes">0241af82db2f13004dc3fe1ebf9619ae</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Vacante por Edad</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://dev22703.service-now.com/sys_report_display.do?sysparm_report_id=6fde7a3cdb1d13004dc3fe1ebf9619f4</query>
+        <report/>
+        <roles>x_196785_oficia.oficio_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-28 19:44:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a5c2eb06db2f13004dc3fe1ebf96198a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Vacante por Edad</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oficia" source="x_196785_oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_scope>
+        <sys_update_name>sys_app_module_a5c2eb06db2f13004dc3fe1ebf96198a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-28 19:49:30</sys_updated_on>
+        <timeline_page/>
+        <title>Vacante por Edad</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

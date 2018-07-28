@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sp_container">
     <sp_container action="INSERT_OR_UPDATE">
-        <background_color>#ffffff</background_color>
+        <background_color>#5FB404</background_color>
         <background_image>9884bf4adb6093004dc3fe1ebf961925.iix?t=m</background_image>
         <background_style>cover</background_style>
         <bootstrap_alt>false</bootstrap_alt>
@@ -15,14 +15,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-02 20:39:19</sys_created_on>
         <sys_id>7144e1a6dbac93004dc3fe1ebf96193b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Oficios home - Container 1</sys_name>
         <sys_package display_value="Oficia" source="x_196785_oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_scope>
         <sys_update_name>sp_container_7144e1a6dbac93004dc3fe1ebf96193b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-05 17:06:26</sys_updated_on>
+        <sys_updated_on>2018-04-03 23:45:11</sys_updated_on>
         <title/>
         <width>container-fluid</width>
     </sp_container>

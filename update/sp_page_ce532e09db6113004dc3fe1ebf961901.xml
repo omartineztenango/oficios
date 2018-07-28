@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>.button {
+	border: 1px solid #848484;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 0;
+}
+.contenedor{
+  display: flex;
+}
+
+@media screen and (max-width: 1000px) {
+  .contenedor {
+  	flex-wrap: wrap;
+  }
+  .button {
+  	width: 100%;
+  }
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure>Oficios</dynamic_title_structure>
+        <id>oficios_home2</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 02:26:45</sys_created_on>
+        <sys_id>ce532e09db6113004dc3fe1ebf961901</sys_id>
+        <sys_mod_count>27</sys_mod_count>
+        <sys_name>oficios_home2</sys_name>
+        <sys_package display_value="Oficia" source="x_196785_oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_scope>
+        <sys_update_name>sp_page_ce532e09db6113004dc3fe1ebf961901</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 17:44:26</sys_updated_on>
+        <title>oficios_home2</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=ce532e09db6113004dc3fe1ebf961901"/>
+</record_update>

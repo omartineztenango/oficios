@@ -19,7 +19,7 @@
         <size>md</size>
         <sp_column display_value="3">fd44e5a6dbac93004dc3fe1ebf96195b</sp_column>
         <sp_page/>
-        <sp_widget display_value="Vacantes Lista">58ff849adba093004dc3fe1ebf961904</sp_widget>
+        <sp_widget display_value="">58ff849adba093004dc3fe1ebf961904</sp_widget>
         <sys_class_name>sp_instance_vlist</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-02 20:39:20</sys_created_on>

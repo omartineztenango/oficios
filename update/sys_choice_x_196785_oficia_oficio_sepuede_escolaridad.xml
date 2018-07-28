@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sepuede_escolaridad" table="x_196785_oficia_oficio" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sepuede_escolaridad</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Saber leer y escribir</label>
+            <language>en</language>
+            <name>x_196785_oficia_oficio</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf20fdc3db2113004dc3fe1ebf9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 03:51:06</sys_updated_on>
+            <value>sepuede_leer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sepuede_escolaridad</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Primaria</label>
+            <language>en</language>
+            <name>x_196785_oficia_oficio</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7320fdc3db2113004dc3fe1ebf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 03:51:06</sys_updated_on>
+            <value>sepuede_pri</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sepuede_escolaridad</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Secundaria / Sec. Técnica</label>
+            <language>en</language>
+            <name>x_196785_oficia_oficio</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3320fdc3db2113004dc3fe1ebf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 03:51:06</sys_updated_on>
+            <value>sepuede_sec</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sepuede_escolaridad</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Preparatoria o vocacional</label>
+            <language>en</language>
+            <name>x_196785_oficia_oficio</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff20fdc3db2113004dc3fe1ebf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 03:51:06</sys_updated_on>
+            <value>sepuede_prep</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sepuede_escolaridad</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Licenciatura</label>
+            <language>en</language>
+            <name>x_196785_oficia_oficio</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77203107db2113004dc3fe1ebf96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 03:51:06</sys_updated_on>
+            <value>sepuede_lic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sepuede_escolaridad</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Profesional técnico</label>
+            <language>en</language>
+            <name>x_196785_oficia_oficio</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37203107db2113004dc3fe1ebf96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 03:51:06</sys_updated_on>
+            <value>sepuede_protec</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sepuede_escolaridad</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Carrera técnica</label>
+            <language>en</language>
+            <name>x_196785_oficia_oficio</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3203107db2113004dc3fe1ebf96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 03:51:06</sys_updated_on>
+            <value>sepuede_carrtec</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sepuede_escolaridad</element>
+            <name>x_196785_oficia_oficio</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 03:51:06</sys_created_on>
+            <sys_id>7f20fdc3db2113004dc3fe1ebf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sepuede_escolaridad</sys_name>
+            <sys_package display_value="Oficia" source="x_196785_oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_scope>
+            <sys_update_name>sys_choice_x_196785_oficia_oficio_sepuede_escolaridad</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 03:51:06</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

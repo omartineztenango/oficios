@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="x_196785_sepuede_solicitantes" label="Solicitantes" max_length="40" name="x_196785_oficia_solicitantes" type="collection"/>
+    <element extends="x_196785_sepuede_solicitantes" label="Solicitantes" max_length="40" name="x_196785_oficia_solicitantes" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Correo electrónico" max_length="40" name="email_oficios" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Estado civil" max_length="40" name="estado_civil" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Habilidades" mandatory="true" max_length="255" name="habilidades" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Idiomas que dominas" max_length="40" name="idiomas" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Máquinas o herramientas que puedes operar" mandatory="true" max_length="255" name="maqu_solicitante" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Software que conoces" max_length="255" name="soft_solicitantes" type="string_full_utf8"/>
+    </element>
 </database>

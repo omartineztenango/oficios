@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-02 20:22:24</sys_created_on>
-            <sys_id>b560e9e2dbac93004dc3fe1ebf9619f5</sys_id>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>02bd0de5db3113004dc3fe1ebf9619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-02 20:22:24</sys_updated_on>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>sepuede_empresa</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-02 20:22:24</sys_created_on>
-            <sys_id>3d60e9e2dbac93004dc3fe1ebf9619f5</sys_id>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>82bd0de5db3113004dc3fe1ebf9619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-02 20:22:24</sys_updated_on>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>sepuede_vacante</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-02 20:22:24</sys_created_on>
-            <sys_id>bd60e9e2dbac93004dc3fe1ebf9619f5</sys_id>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>06bd0de5db3113004dc3fe1ebf9619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-02 20:22:24</sys_updated_on>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,83 +47,223 @@
             <element>sepuede_salario</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-02 20:22:24</sys_created_on>
-            <sys_id>3160e9e2dbac93004dc3fe1ebf9619f6</sys_id>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>86bd0de5db3113004dc3fe1ebf9619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-02 20:22:24</sys_updated_on>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>conocimientos</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>0abd0de5db3113004dc3fe1ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sexo</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>8abd0de5db3113004dc3fe1ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>soft_req</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>0ebd0de5db3113004dc3fe1ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incentivos</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>8ebd0de5db3113004dc3fe1ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>periodo_pago</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>02bd0de5db3113004dc3fe1ebf9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-02 20:22:24</sys_created_on>
-            <sys_id>b160e9e2dbac93004dc3fe1ebf9619f6</sys_id>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>82bd0de5db3113004dc3fe1ebf9619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-02 20:22:24</sys_updated_on>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sepuede_escolaridad</element>
-            <position>5</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-02 20:22:24</sys_created_on>
-            <sys_id>3560e9e2dbac93004dc3fe1ebf9619f6</sys_id>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>06bd0de5db3113004dc3fe1ebf9619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-02 20:22:24</sys_updated_on>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sepuede_edad</element>
-            <position>6</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-02 20:22:24</sys_created_on>
-            <sys_id>b560e9e2dbac93004dc3fe1ebf9619f6</sys_id>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>86bd0de5db3113004dc3fe1ebf9619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-02 20:22:24</sys_updated_on>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sepuede_edad_max</element>
-            <position>7</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-02 20:22:24</sys_created_on>
-            <sys_id>3960e9e2dbac93004dc3fe1ebf9619f6</sys_id>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>0abd0de5db3113004dc3fe1ebf9619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-02 20:22:24</sys_updated_on>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sepuede_plazas</element>
-            <position>8</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-02 20:22:24</sys_created_on>
-            <sys_id>b960e9e2dbac93004dc3fe1ebf9619f6</sys_id>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>8abd0de5db3113004dc3fe1ebf9619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-02 20:22:24</sys_updated_on>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actividades</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>0ebd0de5db3113004dc3fe1ebf9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dias_laborar</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>8ebd0de5db3113004dc3fe1ebf9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>horario_trabajo</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>02bd0de5db3113004dc3fe1ebf9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>maq_tools</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>82bd0de5db3113004dc3fe1ebf9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idioma</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:20</sys_created_on>
+            <sys_id>06bd0de5db3113004dc3fe1ebf9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_196785_oficia_oficio" sys_domain="global" view="Default view">f560e9e2dbac93004dc3fe1ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

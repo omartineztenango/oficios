@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Oficio">b4202126dbac93004dc3fe1ebf961987</application>
+        <application display_value="Oficios">b4202126dbac93004dc3fe1ebf961987</application>
         <filter/>
         <name>Oficios</name>
         <order/>

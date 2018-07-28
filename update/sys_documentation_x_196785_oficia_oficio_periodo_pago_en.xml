@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="periodo_pago" label="Periodo de pago" language="en" table="x_196785_oficia_oficio">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>periodo_pago</element>
+            <help/>
+            <hint/>
+            <label>Periodo de pago</label>
+            <language>en</language>
+            <name>x_196785_oficia_oficio</name>
+            <plural>Periodo de pagos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 19:45:19</sys_created_on>
+            <sys_id>b9bd0de5db3113004dc3fe1ebf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Periodo de pago</sys_name>
+            <sys_package display_value="Oficia" source="x_196785_oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_scope>
+            <sys_update_name>sys_documentation_x_196785_oficia_oficio_periodo_pago_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 19:45:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

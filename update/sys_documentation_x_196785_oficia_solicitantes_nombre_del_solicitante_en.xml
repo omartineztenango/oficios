@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="nombre_del_solicitante" label="Tu nombre" language="en" table="x_196785_oficia_solicitantes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>nombre_del_solicitante</element>
+            <help/>
+            <hint/>
+            <label>Tu nombre</label>
+            <language>en</language>
+            <name>x_196785_oficia_solicitantes</name>
+            <plural>Tu nombres</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 03:35:29</sys_created_on>
+            <sys_id>7813be45dba113004dc3fe1ebf9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Tu nombre</sys_name>
+            <sys_package display_value="Oficia" source="x_196785_oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Oficia">305d9d22dbac93004dc3fe1ebf9619d0</sys_scope>
+            <sys_update_name>sys_documentation_x_196785_oficia_solicitantes_nombre_del_solicitante_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 03:35:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
